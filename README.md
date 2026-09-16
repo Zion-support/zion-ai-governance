@@ -2,13 +2,13 @@
 
 EU AI Act readiness, AI risk management and compliance.
 
-**Live:** https://governance.ziontechgroup.com
+**Live:** https://ziontechgroup.com/zion-ai-governance/
 
 Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
 ## Companion apps
-- [Zion AI Observability](https://observability.ziontechgroup.com)
-- [Zion RAG Platform](https://rag.ziontechgroup.com)
-- [Zion Prompt Forge](https://prompts.ziontechgroup.com)
-- [Zion AI FinOps](https://ai-finops.ziontechgroup.com)
-- [Zion Edge AI](https://edge-ai.ziontechgroup.com)
+- [Zion AI Observability](https://ziontechgroup.com/zion-ai-observability/)
+- [Zion RAG Platform](https://ziontechgroup.com/zion-rag-platform/)
+- [Zion Prompt Forge](https://ziontechgroup.com/zion-prompt-forge/)
+- [Zion AI FinOps](https://ziontechgroup.com/zion-ai-finops/)
+- [Zion Edge AI](https://ziontechgroup.com/zion-edge-ai/)
