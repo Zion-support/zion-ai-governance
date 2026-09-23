@@ -40,3 +40,6 @@ All transactions go through [Zion's main Plans page](https://ziontechgroup.com/e
 - **Email**: kleber@ziontechgroup.com
 - **WhatsApp**: +1 302 464 0950
 - **Site**: https://ziontechgroup.com
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
