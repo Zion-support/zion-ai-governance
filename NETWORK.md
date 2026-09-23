@@ -1,10 +1,17 @@
-# Zion AI Governance
+# Zion AI Governance — Zion App Network
 
-EU AI Act readiness, AI risk and compliance.
+Zion AI Governance — EU AI Act readiness, AI risk and compliance. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) · [zion-ai-regs-radar](https://github.com/Zion-support/zion-ai-regs-radar) · [zion-ai-policy-generator](https://github.com/Zion-support/zion-ai-policy-generator) · [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) · [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety)
+- 🔗 Live app: [https://governance.ziontechgroup.com](https://governance.ziontechgroup.com)
+- 🏠 Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Compliance Auditor](https://github.com/Zion-support/zion-ai-compliance-auditor) — EU AI Act ready compliance auditing
+- [AI Governance Dashboard](https://github.com/Zion-support/ai-governance-dashboard) — AI governance dashboards
+- [Zion AI Compliance Checker](https://github.com/Zion-support/zion-ai-compliance-checker) — SOC 2, HIPAA, GDPR readiness
+- [AI Policy Generator](https://github.com/Zion-support/ai-policy-generator) — internal AI policy template builder
+- [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk) — third-party risk assessments
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
